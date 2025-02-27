@@ -1,0 +1,18 @@
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.csproj.AssemblyReference.cache
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.AssemblyInfoInputs.cache
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.AssemblyInfo.cs
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.csproj.CoreCompileInputs.cache
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.sourcelink.json
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\bin\Debug\net8.0\JSON Guided Lab.exe
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\bin\Debug\net8.0\JSON Guided Lab.deps.json
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\bin\Debug\net8.0\JSON Guided Lab.runtimeconfig.json
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\bin\Debug\net8.0\JSON Guided Lab.dll
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\bin\Debug\net8.0\JSON Guided Lab.pdb
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Gui.EFB87E72.Up2Date
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.dll
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\refint\JSON Guided Lab.dll
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.pdb
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\JSON Guided Lab.genruntimeconfig.cache
+C:\Users\ba1005748\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-150\brenden-150\JSON Guided Lab\JSON Guided Lab\obj\Debug\net8.0\ref\JSON Guided Lab.dll
