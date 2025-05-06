@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69FD5C58-5A3E-471C-B5E9-316C4AF638E0}|PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject.csproj|c:\\users\\ba1005748\\onedrive - ozarks technical community college\\2025-spring\\cis-150\\brenden-150\\pokemonexplorerfinalproject\\pokemonexplorerfinalproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69FD5C58-5A3E-471C-B5E9-316C4AF638E0}|PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject.csproj|solutionrelative:pokemonexplorerfinalproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FD5C58-5A3E-471C-B5E9-316C4AF638E0}|PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject.csproj|C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD5C58-5A3E-471C-B5E9-316C4AF638E0}|PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject.csproj|solutionrelative:PokeMonExplorerFinalProject\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FD5C58-5A3E-471C-B5E9-316C4AF638E0}|PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject.csproj|C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD5C58-5A3E-471C-B5E9-316C4AF638E0}|PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject.csproj|solutionrelative:PokeMonExplorerFinalProject\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PokeMonExplorerFinalProject\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject\\MainPage.xaml",
+              "RelativeToolTip": "PokeMonExplorerFinalProject\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T20:09:57.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PokeMonExplorerFinalProject\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject\\MainPage.xaml.cs",
+              "RelativeToolTip": "PokeMonExplorerFinalProject\\MainPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:50:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PokeMonExplorerFinalProject\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\PokeMonExplorerFinalProject\\PokeMonExplorerFinalProject\\App.xaml.cs",
+              "RelativeToolTip": "PokeMonExplorerFinalProject\\App.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:50:15.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

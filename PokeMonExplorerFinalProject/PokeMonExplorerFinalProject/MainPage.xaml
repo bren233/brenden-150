@@ -1,0 +1,78 @@
+﻿<Page
+    x:Class="PokeMonExplorerFinalProject.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PokeMonExplorerFinalProject"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#E0E0E0" Margin="0,-1,0,1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="291*"/>
+            <ColumnDefinition Width="349*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="729" Margin="295,0,0,0" VerticalAlignment="Center" Width="702" Grid.Column="1">
+            <ListView Margin="-1,-1,10,-3">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Spacing="10">
+                            <TextBlock TextAlignment="Left" Text="No."/>
+                            <TextBlock TextAlignment="Left" Text="{Binding id}"/>
+                            <TextBlock TextAlignment="Left" Text="{Binding name}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem" >
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="Background" Value="BlanchedAlmond"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+
+
+                <ListViewItem>
+                    <Button Click="ButtonClick">
+                        <TextBlock Text="Pokemon" FontSize="25" />
+                    </Button>
+                </ListViewItem>
+
+                <ListViewItem>
+                    <Button Click="ButtonClick">
+                        <TextBlock Text="Pokemon" FontSize="25" />
+                    </Button>
+                </ListViewItem>
+
+                <ListViewItem>
+                    <Button Click="ButtonClick">
+                        <TextBlock Text="Pokemon" FontSize="25" />
+                    </Button>
+                </ListViewItem>
+
+
+
+
+
+            </ListView>
+        </Border>
+        <Border x:Name="Border1" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="606" Margin="60,176,0,0" VerticalAlignment="Top" Width="726"/>
+        <Border Background="red" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" VerticalAlignment="Top" Width="1920" Grid.ColumnSpan="2"/>
+        <TextBlock Grid.Column="1" FontSize="34" HorizontalAlignment="Left" Height="60" Margin="0,10,0,0" TextWrapping="Wrap" Text="PokeDex" VerticalAlignment="Top" Width="200" FontFamily="/Assets/NewFolder1/PixelifySans-VariableFont_wght.ttf#Pixelify Sans"/>
+        <Button Content="Button" Height="46" Margin="60,101,0,0" VerticalAlignment="Top" Width="171"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Page>

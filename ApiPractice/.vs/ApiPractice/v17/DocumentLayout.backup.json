@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\ApiPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4118919-6684-4CD4-9DC7-719B42F176A8}|ApiPractice\\ApiPractice.csproj|c:\\users\\ba1005748\\onedrive - ozarks technical community college\\2025-spring\\cis-150\\brenden-150\\apipractice\\apipractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4118919-6684-4CD4-9DC7-719B42F176A8}|ApiPractice\\ApiPractice.csproj|solutionrelative:apipractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\ApiPractice\\ApiPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ApiPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\ba1005748\\OneDrive - Ozarks Technical Community College\\2025-Spring\\CIS-150\\brenden-150\\ApiPractice\\ApiPractice\\Program.cs*",
+              "RelativeToolTip": "ApiPractice\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:31:38.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
